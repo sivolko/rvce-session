@@ -5,6 +5,30 @@ This is the curated list from RVCE Session | Journey in CyberSec with Linux-Open
 
 **$whoami**
 
+![profile](https://pbs.twimg.com/media/FfMqwIBUAAAqBdO?format=jpg&name=small)
+
+***favourite Quote***
+
+sudo rm -rf / problems 
+
+- Cloud Security Eng @ TCS (Red Team)
+- Former SOC L3 (Blue Team)
+- Former Product Mentor @ SIH -2022
+- Worked with Ministry of Edu & myGov.in 
+- Open Source Contributor in Docker , Soda foundation 
+- Meetup-Organiser
+
+
+Student -Professionals Community for meetups, Learning resource and Open Source Opportunity  
+
+![Discord](https://cdn-icons-png.flaticon.com/128/5968/5968756.png) [Join Discord](https://discord.gg/a7yMsgBJqe)
+
+![WhatsApp](https://cdn-icons-png.flaticon.com/128/3670/3670051.png) [Join WhatsApp](https://chat.whatsapp.com/IHXSSZtYRTzLLVcYb3MYKh)
+
+
+
+
+
 
 # Getting started with Linux-based Operating System
 
