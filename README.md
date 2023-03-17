@@ -1,7 +1,7 @@
 # rvce-session
 This is the curated list from RVCE Session | Journey in CyberSec with Linux-Opensource-Microsoft Sentinel
 
-session was awsm 
+
 
 # About Speaker :- 
 
@@ -13,18 +13,25 @@ session was awsm
 
 sudo rm -rf / problems 
 
-- Cloud Security Eng @ TCS 
-- Former SOC L3 (Blue Team)
+**Building [TroubleshooterClub](https://troubleshooterclub.in)**
+- Cloud Security Eng 
 - Former Product Mentor @ SIH -2022
 - Worked with Ministry of Edu & myGov.in 
 - Open Source Contributor in Docker , Soda foundation 
 - Meetup-Organiser
 - [![Linkedin](https://img.icons8.com/color/1x/linkedin-circled--v2.gif)](https://www.linkedin.com/in/shubhendu-shubham/)
 
+<!-- ![Google Network Engineer](/assets/image.png) -->
+<img src="assets/image.png" width="200">
+<img src="assets/3.png" width="200">
+<img src="assets/2.png" width="200">
+<img src="assets/1.png" width="200">
+
+
  
  **Community**
 
-Student -Professionals Community for meetups, Learning resource and Open Source Opportunity  
+Student -Professionals Community for meetups, Learning resource and Open Source Opportunity 
 
 ![Discord](https://cdn-icons-png.flaticon.com/128/5968/5968756.png) [Join Discord](https://discord.gg/a7yMsgBJqe)
 
