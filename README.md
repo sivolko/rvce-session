@@ -11,13 +11,16 @@ This is the curated list from RVCE Session | Journey in CyberSec with Linux-Open
 
 sudo rm -rf / problems 
 
-- Cloud Security Eng @ TCS (Red Team)
+- Cloud Security Eng @ TCS 
 - Former SOC L3 (Blue Team)
 - Former Product Mentor @ SIH -2022
 - Worked with Ministry of Edu & myGov.in 
 - Open Source Contributor in Docker , Soda foundation 
 - Meetup-Organiser
+- [![Linkedin](https://img.icons8.com/color/1x/linkedin-circled--v2.gif)](https://www.linkedin.com/in/shubhendu-shubham/)
 
+ 
+ **Community**
 
 Student -Professionals Community for meetups, Learning resource and Open Source Opportunity  
 
@@ -501,3 +504,8 @@ Enable a data connector
 
 ![image](https://user-images.githubusercontent.com/42417756/212827745-a6391ed3-d0c9-4703-94a7-9bd5f8947ead.png)
 
+
+
+### Special Thanks 
+
+This Docs conatians resources from Microsoft , Open Source Docs,Wiki, Azure Developer Community Mentors, other resources. Feel free to customise it as per your choice 
